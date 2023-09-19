@@ -9,7 +9,7 @@ public class LibraryCard {
     private ArrayList<org.example.LibraryCard> libraryCards;
 
     public LibraryCard() {
-        numberCard = 0;
+       this.numberCard = 0;
         this.student = new Student();
     }
 
